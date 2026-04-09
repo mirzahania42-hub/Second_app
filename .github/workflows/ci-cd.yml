@@ -2,7 +2,7 @@ name: Advanced DevOps CI/CD Pipeline
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
 
